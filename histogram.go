@@ -17,7 +17,7 @@ type Histogram interface {
 	String() (str string)
 }
 
-type bin struct {
-	value float64
-	count float64
+type Bin struct {
+	Value float64
+	Count float64
 }
