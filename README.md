@@ -28,9 +28,6 @@ A maximum bin size is passed as an argument to the constructor methods. A
 larger bin size yields more accurate approximations at the cost of increased
 memory utilization and performance.
 
-A picture of kittens:
-
-![stack of kittens](http://i.imgur.com/QxRTWAE.jpg)
 
 ## Getting started
 
